@@ -1,4 +1,4 @@
-== README - Nico Thirion
+Test Rails Blog App - Michael Jackson
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
